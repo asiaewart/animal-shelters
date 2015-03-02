@@ -1,0 +1,38 @@
+/*
+Website: animal_adoption$ v.1
+Author: Asia Ewart
+*/
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Working Title - Adoption and NYC's Meow Parlour!</title>
+
+<style>
+body{
+	background-color: #8DCDE0;
+	font-family: font-family: "Lucida Bright",Georgia,serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+h1{
+	color: #0B1747;
+		font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+		font-size: 60px;
+		font-weight: bold;
+}
+
+h2{
+	color: black;
+	font-family: font-family: TimesNewRoman,"Times New Roman",Times,Baskerville,Georgia,serif
+	font-size: 20px;
+	font-weight: lighter;
+	text-align: left;
+}
+
+hr{
+	border-color: black;
+}
+</style>
